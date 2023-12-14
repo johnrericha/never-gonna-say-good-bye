@@ -1,9 +1,10 @@
-git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin https://github.com/johnrericha/never-gonna-say-good-bye.git
-  git push -u origin main
-  git remote add origin https://github.com/johnrericha/never-gonna-say-good-bye.git
-  git branch -M main
-  git push -u origin main
+def pozdrav(pocet_pozdravu)
+  print("ahoj")
+
+print("kolikrat te mam pozdravit")
+pocet_pozdravu = input()
+
+
+
+
+
